@@ -10,4 +10,19 @@
          <lastmod>2023-01-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://dev.hnssearch.io/handshake/</loc>
+         <lastmod>2023-01-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dev.hnssearch.io/linda/</loc>
+         <lastmod>2023-01-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dev.hnssearch.io/meilisearch/</loc>
+         <lastmod>2023-01-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
