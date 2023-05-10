@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dev.hnssearch.io/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev.hnssearch.io/about/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev.hnssearch.io/contribute/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev.hnssearch.io/handshake/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev.hnssearch.io/linda/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev.hnssearch.io/meilisearch/</loc>
-         <lastmod>2023-03-08</lastmod>
+         <lastmod>2023-05-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
